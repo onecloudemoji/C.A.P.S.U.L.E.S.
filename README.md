@@ -12,4 +12,4 @@ All scripts come with twelve months of WOMM&trade; (works on my machine) warrant
 A two script kit to build a domain controller, then add the necessary groups, users and permissions to practice some ACL abuse and edges you might miss in BloodHound. Drop in as user 1 for an assumed breach or combine with the 'UNCLE' kit to use responder and collect hashes from outside.
 
 ## UNCLE
-A short script that will add a scheulded task to force a specified user to check for a non existant UNC share at a periodic interval. Presently leverages users from the ACL Abuse kit, changing these as required.
+A short script that will add a scheulded task to force a specified user to check for a non existant UNC share at a periodic interval. Presently leverages users from the ACL Abuse kit, change these as required.
