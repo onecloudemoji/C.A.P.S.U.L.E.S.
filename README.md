@@ -5,7 +5,7 @@ Crafting Alternative Powershell Scenarios Utilising Learning Environment Scripts
 
 Extensible modules designed to make a red team and pentesting lab that is more flexible, has depth and automation. Stand alone kits designed to work together or alone, as part of a larger build or a self contained deployment. These kits are not designed to automatically build infrastructure for you, [I have already build that project](https://github.com/onecloudemoji/ADLAB). These will not deploy flags, and the point isnt always root.
 
-All scripts come with the twelve months of WOMM&trade; (works on my machine) warranty.
+All scripts come with twelve months of WOMM&trade; (works on my machine) warranty.
 
 
 ## ACL Abuse
