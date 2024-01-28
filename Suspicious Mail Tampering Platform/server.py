@@ -1,3 +1,5 @@
+#THIS GETS RUN ON THE WINDOWS MACHINE
+
 import asyncio
 import os
 from aiosmtpd.controller import Controller
