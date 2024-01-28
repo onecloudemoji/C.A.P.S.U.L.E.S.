@@ -1,4 +1,4 @@
-# C.A.P.S.U.L.E.S
+# C.A.P.S.U.L.E.S.
 Crafting Alternative Powershell Scenarios Utilising Learning Environment Scripts.
 
 ![capsules](https://raw.githubusercontent.com/onecloudemoji/onecloudemoji.github.io/master/assets/images/CAPSULES.jpg)
