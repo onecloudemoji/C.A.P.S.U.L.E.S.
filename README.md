@@ -16,3 +16,7 @@ A short script that will add a scheulded task to force a specified user to check
 
 ## Suspicious Mail Tampering Platform
 Host an SMTP server that will save all attachments received to a specified folder, which will be checked every two minutes and will execute all files with the listed keywords in them. A small scale phishing simulation. Use send.py to avoid having to craft SMTP messages yourself. Amend whitelist_rules.ps1 to add more granularity to what it marks as safe or not, and give it a 30% chance of marking uploads as safe if rules are met.  
+
+## GROPER
+GROup Policy Exploit Research
+Add an extremley vulnerable GPO to the domain that can be modified by all users. The trick here is not in modifying the GPO, it is in finding the vulnerable GPO. Relying on copypasta PowerView arguments is not suffecient to hunt this down.
