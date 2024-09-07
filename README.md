@@ -23,3 +23,7 @@ Add an extremley vulnerable GPO to the domain that can be modified by all users.
 
 ## Guarded Machines Still Accessible
 gMSA misconfigurations. They are a great technology that can be undone by poor practices surrounding the gMSA. Trivial, insecure web app designed to showcase how well meaning and good intentions can be a burden. Two part kit, one for setting up the gMSA on the DC (needs to be run from the DC) and a second to be run on the IIS server.
+
+## OSEP LAB
+Overly Simplified Experienced Pentester Laboratory
+A series of scripts to deploy a lab derived from training material I have not viewed. Follow them from start to end, running them on the machine indicated in the script name. Requires 3x Server VMs.
