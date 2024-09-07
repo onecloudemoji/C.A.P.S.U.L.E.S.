@@ -18,12 +18,12 @@ A short script that will add a scheulded task to force a specified user to check
 Host an SMTP server that will save all attachments received to a specified folder, which will be checked every two minutes and will execute all files with the listed keywords in them. A small scale phishing simulation. Use send.py to avoid having to craft SMTP messages yourself. Amend whitelist_rules.ps1 to add more granularity to what it marks as safe or not, and give it a 30% chance of marking uploads as safe if rules are met.  
 
 ## GROPER
-GROup Policy Exploit Research
+GROup Policy Exploit Research.
 Add an extremley vulnerable GPO to the domain that can be modified by all users. The trick here is not in modifying the GPO, it is in finding the vulnerable GPO. Relying on copypasta PowerView arguments is not suffecient to hunt this down.
 
 ## Guarded Machines Still Accessible
 gMSA misconfigurations. They are a great technology that can be undone by poor practices surrounding the gMSA. Trivial, insecure web app designed to showcase how well meaning and good intentions can be a burden. Two part kit, one for setting up the gMSA on the DC (needs to be run from the DC) and a second to be run on the IIS server.
 
 ## OSEP LAB
-Overly Simplified Experienced Pentester Laboratory
+Overly Simplified Experienced Pentester Laboratory.
 A series of scripts to deploy a lab derived from training material I have not viewed. Follow them from start to end, running them on the machine indicated in the script name. Requires 3x Server VMs.
