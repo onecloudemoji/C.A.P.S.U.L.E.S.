@@ -27,3 +27,6 @@ gMSA misconfigurations. They are a great technology that can be undone by poor p
 ## OSEP LAB
 Overly Simplified Experienced Pentester Laboratory.
 A series of scripts to deploy a lab derived from training material I have not viewed. Follow them from start to end, running them on the machine indicated in the script name. Requires 3x Server VMs.
+
+## RODEO
+Ghosts in the machine. Has the logged in user perform actions to generate artifacts one would expect to see in a real environment. Keeps labs from feeling too much like a static CTF and reminds you that testing is usually done while others are present in the environment. Inspired by the idea of [sheepl](https://github.com/lorentzenman/sheepl), but being fully self contained.
